@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "${workspaceFolder}\\env\\Scripts\\python.exe"
+    "python.pythonPath": "${workspaceFolder}\\env\\Scripts\\python.exe",
+    "appService.defaultWebAppToDeploy": "/subscriptions/d81604c0-6026-4992-86d6-ea32198dcfcf/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/richa-flask-app",
+    "appService.deploySubpath": "."
 }
